@@ -4,7 +4,7 @@ This is the README file for the assignment you received from Rocket Career to cr
 
 ## Assignment Overview
 
-You have been tasked with creating a landing page for a product website as part of your assignment for Rocket Career. The landing page should effectively promote and showcase the product, providing essential information and engaging visuals to attract potential customers.
+creating a landing page for a product website as part of your assignment for Rocket Career. This landing page should effectively promote and showcase the product, providing essential information and engaging visuals to attract potential customers.
 
 ## Task List
 
