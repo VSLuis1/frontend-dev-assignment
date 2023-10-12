@@ -39,10 +39,11 @@ To get started with this assignment, follow these steps:
 
 
 ## Demo
-[![website](https://frontend-dev-assignment.vercel.app/)]
+[![website](assets/demo.jpg)]
 
 ## Live
-[![Live Demo](https://frontend-dev-assignment.vercel.app/)]
+[Live](https://frontend-dev-assignment.vercel.app/)
+
 
 
 
