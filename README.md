@@ -41,7 +41,8 @@ To get started with this assignment, follow these steps:
 ## Demo
 [![website](assets/demo.jpg)]
 
-[![Live Demo](https://example.com/product-image.jpg)](https://example.com/product-page)
+## Live
+[![Live Demo](https://frontend-dev-assignment.vercel.app/)]
 
 
 
