@@ -42,7 +42,7 @@ To get started with this assignment, follow these steps:
 [![website](assets/demo.jpg)]
 
 ## Live
-[Live](https://frontend-dev-assignment.vercel.app/)
+[Landing Page](https://frontend-dev-assignment.vercel.app/)
 
 
 
