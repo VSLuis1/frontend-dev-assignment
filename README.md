@@ -21,12 +21,12 @@ You have been tasked with creating a landing page for a product website as part 
 Here's a suggested project structure for your assignment:
 
 project-root/
-|-- index.html # Landing page HTML
-|-- styles.css # CSS styles
-|-- script.js # JavaScript (if needed)
-|-- images/ # Image folder
-|-- product-image.jpg # Main product image
-|-- README.md # This file
+- index.html # Landing page HTML
+- styles.css # CSS styles
+- script.js # JavaScript (if needed)
+- images/ # Image folder
+- product-image.jpg # Main product image
+- README.md # This file
 
 
 ## Getting Started
@@ -37,8 +37,12 @@ To get started with this assignment, follow these steps:
 
 2. Begin working on the assignment tasks, making sure to update the project structure accordingly.
 
-[![website](image-url)]
+
+## Demo
+[![website](assets/demo.jpg)]
 
 [![Live Demo](https://example.com/product-image.jpg)](https://example.com/product-page)
+
+
 
 
